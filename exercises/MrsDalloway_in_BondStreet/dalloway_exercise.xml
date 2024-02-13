@@ -64,7 +64,7 @@
 
 
             <p>Mrs Dalloway said she would buy the gloves herself.</p>
-            <p><rs type="http://sparql.cwrc.ca/ontology/cwrc#NationalHeritage">Big Ben</rs> was striking as she stepped out into the street. It was eleven o'clock and
+            <p><rs type="http://sparql.cwrc.ca/ontology/cwrc#NationalHeritage"><rs type="http://sparql.cwrc.ca/ontology/cwrc#NationalHeritage">Big Ben</rs></rs> was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
@@ -97,7 +97,7 @@
             <p>"Milly?" said Mrs Dalloway, instantly compassionate.</p>
             <p>"Out of sorts," said Hugh Whitbread. "That sort of thing. Dick all right?"</p>
             <p>"First rate!" said Clarissa.</p>
-            <p>Of course, she thought, walking on, Milly is about my age—fifty—fifty-two. So it is
+            <p>Of course, she thought, walking on, <persName type="fictional">Milly</persName> is about my age—fifty—fifty-two. So it is
                probably that, Hugh's manner had said so, said it perfectly—dear old Hugh,
                thought Mrs Dalloway, remembering with amusement, with gratitude, with emotion, how
                shy, like a brother—one would rather die than speak to one's brother—Hugh had always
