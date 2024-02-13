@@ -64,12 +64,12 @@
 
 
             <p>Mrs Dalloway said she would buy the gloves herself.</p>
-            <p>Big Ben was striking as she stepped out into the street. It was eleven o'clock and
+            <p><rs type="http://sparql.cwrc.ca/ontology/cwrc#NationalHeritage">Big Ben</rs> was striking as she stepped out into the street. It was eleven o'clock and
                the unused hour was fresh as if issued to children on a beach. But there was
                something solemn in the deliberate swing of the repeated strokes; something stirring
                in the murmur of wheels and the shuffle of footsteps.</p>
             <p>No doubt they were not all bound on errands of happiness. There is much more to be
-               said about us than that we walk the streets of Westminster. Big Ben too is nothing
+               said about us than that we walk the streets of Westminster. <rs type="http://sparql.cwrc.ca/ontology/cwrc#NationalHeritage">Big Ben</rs> too is nothing
                but steel rods consumed by rust were it not for the care of H. M.'s Office of Works.
                Only for Mrs Dalloway the moment was complete; for <persName>Mrs Dalloway</persName> June was fresh. A
                happy childhood—and it was not to his daughters only that Justin Parry had seemed a
